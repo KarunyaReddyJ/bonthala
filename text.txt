@@ -1,0 +1,7 @@
+A+B*C+D
+
+ABC*+D+
+
+^(exp)=high
+x,/=medium
++,-=low
